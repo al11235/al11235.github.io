@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/alok-/">View My LinkedIn Profile</a>
-  <br>
+  <br><br>
   <a href="https://al11235.github.io/pdf/Resume_Alok_Kumar.pdf">View My Resume</a>
   
 theme: jekyll-theme-minimal
